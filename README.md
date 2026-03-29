@@ -1,1 +1,1 @@
-**This project is a Product Dashboard built using HTML, CSS, and JavaScript. It fetches product data from an external API and displays it dynamically on the webpage.
+**This project is a Product Dashboard built using HTML, CSS and JavaScript. It fetches product data from an external API and displays it dynamically on the webpage.
